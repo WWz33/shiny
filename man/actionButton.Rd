@@ -74,7 +74,7 @@ actionLink("infoLink", "Information Link", class = "btn-info")
 \seealso{
 \code{\link[=observeEvent]{observeEvent()}} and \code{\link[=eventReactive]{eventReactive()}}
 
-Other input elements: 
+Other input elements:
 \code{\link{checkboxGroupInput}()},
 \code{\link{checkboxInput}()},
 \code{\link{dateInput}()},
